@@ -1,5 +1,4 @@
 // Every topic a senior backend engineer (Node.js / TypeScript) is expected
-// to know for 40–50 LPA interviews. Each topic has a stable unique id —
 // NEVER change an id once you start tracking, or saved progress won't match.
 
 export const CATEGORIES = [
